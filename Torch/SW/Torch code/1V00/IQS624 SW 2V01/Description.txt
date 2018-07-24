@@ -1,0 +1,5 @@
+2018/03/16
+Dimmer switch 2V01 working:
+
+Work with sofware I2C @130Khz. 
+Interrupt on RDY (PA3).
